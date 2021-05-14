@@ -2,11 +2,19 @@
   "foods": [
     {
       "id": 1,
-      "name": "Chicken",
+      "name": "Ao molho",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.99",
+      "price": "19.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+    },
+    {
+      "id": 2,
+      "name": "Veggie",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "price": "21.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
       "id": 3,
@@ -15,14 +23,6 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
-    },
-    {
-      "image": "https://pbs.twimg.com/media/DXTV_HjUQAANQLM.jpg",
-      "name": "Mega Stacker 4.0",
-      "price": "42.00",
-      "description": "COMBO!!! 4 hambúrgueres mais queijo de sua preferência, refrigerante e batata frita ",
-      "available": true,
-      "id": 4
     }
   ]
 }
